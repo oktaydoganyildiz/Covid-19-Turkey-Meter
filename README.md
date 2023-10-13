@@ -1,6 +1,6 @@
 # Covid-19-Turkey-Meter
 
-Codes gathers data from the internet with selenium module. Covid-19 data is sent to the e-mail addresses you want.
+This code uses the Beautiful Soup module to gather data from the internet and sends COVID-19 data to the email addresses you specify
 Look comment lines !
 
 
